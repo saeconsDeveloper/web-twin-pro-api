@@ -1,0 +1,36 @@
+[
+    {
+        "model": "dashboard.actiontype",
+        "pk": 1,
+        "fields": {
+            "text": "Video",
+            "value": "action_type_1",
+            "show_in_filter": true,
+            "created_at": "1111-11-11 11:11:11",
+            "updated_at": "1111-11-11 11:11:11"
+        }
+    },
+    {
+        "model": "dashboard.actiontype",
+        "pk": 2,
+        "fields": {
+            "text": "Teleportation",
+            "value": "action_type_2",
+            "show_in_filter": true,
+            "created_at": "1111-11-11 11:11:11",
+            "updated_at": "1111-11-11 11:11:11"
+        }
+    },
+    {
+        "model": "dashboard.actiontype",
+        "pk": 3,
+        "fields": {
+            "text": "Annotation",
+            "value": "action_type_3",
+            "show_in_filter": true,
+            "created_at": "1111-11-11 11:11:11",
+            "updated_at": "1111-11-11 11:11:11"
+        }
+      }
+  ]
+  
